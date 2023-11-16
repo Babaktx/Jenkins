@@ -1,2 +1,5 @@
 # Jenkins
-install
+#install
+# ubuntu 
+#t2 medium 
+#
